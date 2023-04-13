@@ -2,4 +2,6 @@ body {background-color: #03CEA4; color: #EBFFFB;}
 h1, h3 {color: #B1B7D1;}
 hr {border-style: none; border-top-style: dotted; color: gray; width: 5%; margin: 0 auto; border-width: 5px;}
 img {width: 150px; height: 150px; border-radius: 50%;}
+.pages {display: flex; flex-direction: row;}
+.pages p {margin-right: 10px;}
 .bio-wrapper{width:500px;}
