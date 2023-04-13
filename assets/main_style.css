@@ -1,2 +1,4 @@
 body {background-color: #03CEA4; color: #EBFFFB;}
 hr {border-style: none; border-top-style: dotted; color: gray; width: 5%; margin: 0 auto; border-width: 5px;}
+img {width: 150px; height: 150px; border-radius: 50%;}
+.bio-wrapper{width:500px;}
